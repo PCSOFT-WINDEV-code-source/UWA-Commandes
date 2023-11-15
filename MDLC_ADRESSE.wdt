@@ -1,0 +1,376 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : MDLC_ADRESSE
+ major_version : 28
+ minor_version : 0
+ type : 20
+ description : ""
+ subtype : 0
+window :
+ name : MDLC_ADRESSE
+ identifier : 0x25f962722697f104
+ internal_properties : CAAAAAgAAABmRVxxa73q/KR+u3DVjst0ekFhJnPgv6x9rMlnL0vCyEDP2Wd1pBWNbC2pSQ1eeGdMz6p7PPt4vODs2mIkcqPTVMu8mZ0QF2POReUoAXpWIAlhDw2xhAtx3pvf8KRy7w+fFhSHHI313IAlvEceGko/hVCCn9x7/QO2wWqVSwKgwzrOvyOB+H/Db45VXO76vzgmIQ2LJve3ll+mZSROkapysO7dafqNBZQ1KSsamHW7rX4p5SKR+Pch/XTGtL6ag3ywNmQJkQf2x6f6SGPQ8EDhXlfaqJO8SsJr69VzTK2gbG5liiaO8u3A11VbHE6DYxuazeoJKkKHTcUpY8Vrh6ea/gsrADVp5FbQV2L2+7iKS3ulgRzc3FVQt4bChgPS39PMSrLvgk38xxSjU8xIicw0UqqhV3A8z6QcdfLwDeHLpotog8btzVnC1uG/32toBuVua1gVBQaYxY3ePMmWKF50MaGfdtYNDEBewS3q2ghsE9CjXhYHUoVz6DT4hyP9FCeJuk+qr+OsAC5q6T7AjMxiBxlsW5dFy6kyZZZZC6VXEfnmSsslzZRTK0z2UUOnrXz7y6+CkU9gmsuNKAdxSKqFYo2J8u09tErGHMKr65iw6kbzo8UoGu7g5K0EMShBBeMLehYVK4ZLoSVjjEjtjzacIBoGYGv9Bu4VXQyy8fGSLqERAfiCdpmKLhnR30DKV4T+A45vvanjhj+uwjXuStElVU0dBxh2woSLpl+yipc43T6uaRxFrXV1pyFihTE7U4hT3sLNTmWWHY6Xl2JvL/EJhunt4lqquAQC8wDho13JnJYZCRXILHcFPRa38a+p7tnmTFa8+aW0nDjx1HdrtIe53I6gd/gDo6L72nIZ
+ properties :
+  width : 363
+  height : 296
+ controls :
+  -
+    name : MDLC_ADRESSE
+    identifier : 0x25f962722698f104
+    internal_properties : CAAAAAgAAADPIDogyC8vnKp+V7F+LSW3PPcX6RhbWE6gjTR048vumKARKWhta9aU1qKatHj4ae6RG1eV1pqoO1gcS0BDOahPjGEsaeOf4N2qtrDLuEsPkIXRBft0sjug8+K5TycnreASht+XRK4cZQnzZduC/DYdCpxe3jukMCF7rlkgBV4DZfS1sXa4Q4Vad37eTgmQ9PHz8USnyIpSpY9NIN+VERNdy5TwnpF8gJnYOJO2w2+49KCsSOpqbdZiUrcPFBzcdlaTUvsi3G16+k2nOrvTqxufMtMyW07bPJc3Ze9xYgTujn2LG28PLbm+AuvkyfEPZWN5w6bNaO7z7Cko39ZJoVJ/52KnIr/MRaqMrF/bMe/cuyz5BOUNSurtJuNsRu3v+5YdFaguFjtztpFoT2h4AuNVE6dr/h+G9QydI2dcV2uPB3acpAPKLVOKhIETozNOFIxtPhRz2VdfiaSVyR6ZQkc7o42rSAlFybhV5i4=
+    properties :
+     width : 363
+     height : 296
+    controls :
+     -
+       name : COMBO_Pays
+       identifier : 0x25f962722699f104
+       internal_properties : CAAAAAgAAAA8Rwz8X4ElPa7lTvVd+VmJHte23FKJo5svipIKoqVVfGbTyU+77M/bhtTYrBzQsOoUJOJQYWcXhfBgJtG9T0kML0z2kG9VZXVkLCn4Nqv9+C+1AI0mc2Weuk+oC9x2jGCEDKB6XB5oH1jVYKTqc3dthRr8McuIUUoOXwywqP/6y/Z8FS0FWyEZtb+3/ahgjswTfm7Mte0wNaAJ+jxKt+lFD1+XxwHldmSHjS7mUdO3NSpApESTNVLC78GT1E5lphK6k7bf7N48QaGi+64NtuOFSSFK6UCRIiSRo5mawcHHhnILxXWlEa6HC7I5Iy5hNQzbcqSDgzxB3M3De76x3ms2G3Ed4gXKnprsg7Z/rFoqvatsU3X6VebgbQl/xuhl0W15gwzsLO28utUWs2ULPUrvoZDDyZonXlwCNODimAPNA7n/3sak76/5Anb/dG1j25nOPjIW0U4tIwCCjknXgzeqXveI7HNMkhwgvF6xdbh1Tje/CwObHHU9CrTcHfH+n735MbbUL690aKbKDRbvGLOE5+zIOzgBUN9w1Fd9J0HqG4nOd3rqq6ifVGq7jTE8ClI/AZonQtiTPIkgAkPzFraiE+PRPfroEUGxoHXr6Z00bjMVviaOlql0B88hEppSmB86X6v20u6UqBu1r8d29rtg4D6/xXyN2IP/NadaQstpxobpmFU35urbmNqA3kl5O8czPRnTG+Md1n+OqutZJFroH3XQheZy5PQqalERckyjsrF9d4EqxuVKq4PakOPN+zhNo3wlTvpQpagZ8QQB0BOLgEyS6HQd0NjJFYLT42iTVUNc4zc3wXCwPgutTNqcZ4NGv4GhyVFSpwjCDhyx+OADvnHC+em8oxxk+lriOI4qrMEdDNRfzt0prkC0XW3pjWJPahk0vwBg7aCprpdClqDLKPWokiBc7ZeKW+j58czyg3q71bWaOthVitJ5vJMjRkWXhLF4o8aQDA6ACj3MHqTqav34rHgUTMeb/4jbgNqKA2NhJGtcm65AJI8OfkUEvBkm263gKMQLGiuG5npQplZfslU/4I7B6MuirOZYss8kHJB1VzT5BBVyrCBl4yDSipzqNv4bMW1AT4WMO8S81IK6i+Wl1hERXR1xmbWJgk5JsDNODlLyLE8p4kTOEtr6WWZCWquVMB5lY/JQ2KN2hrWTKhVUYKFUMz9Th+MfSBezO1haERinp3CEJDXbFTBEM3nOmKw0EeYG9phbX6YbOAynX6CoFLziVvC+F8fBbCUckW6/bu+dpei0xnIgDbDb1rxp0QWCN3y8i0rCo0lE79JbJgptfwVvtvuDwWfrWeYVy8ZwBu2mtKWAOUQgRSwYfBZTjzkdxUW4a1sbvyxV9SwNb8nP4JBmEPZS2Vs7zorhBfXUAnvo899e8PMPQSt7eAV+gFpWjrZ1K5EALayTEMUS03uP9KAin1Ce+XGJi5tAlfSkkz+2/KOwDrRn+zO1MectiRLedH+5qtrh/WlpxX1Kd9804wIFm7TZcEnU67zPKlqBuE4nGNsAWUgH5z9qYGHp4KfRp5By/9OC270CtuuwjLHm7kKTiajip2QlS0LmdV1LwP8JLuh1KoiVg7YR88Q67xvxZ3tB+BCY7yvdCmK1/RgPJG38HB0KrPc04QxedoJKK6+b
+       properties :
+        y : 250
+        width : 363
+        height : 46
+       dropdown :
+        internal_properties : CAAAAAgAAABoZ6FLlUHOWDqNnMTzLWSv/o5CtdshAbjCIPC5v5ukp4KgDivLD7UnWR/PFQK35qjEb0WSCJPkfT2wo/0P5NgHtznDyB0LSCFj+fUaigZhz5RLKbpg7IFypKkTtww0E1v0YVv/QPgpuV83nF+SdbbZXFzRlNsWgfVlMkgwXH/d1SozSMPQunb4l1K23gyZOtpd/QxNhVNIUd2Un8B9cHLCDRxHB81vBSIhDibWJ8KdWdUgiXxoHt3ymis+WXlQJyBmBl8R2iUTLnlvnriuex60+9q3jhAstBpFqtjfaMStva4JUd6Dg3m+P1uc6Tp5xaoXDqL5dPkaFrUd7cqPURPucvSwmT+cXSJiyVtxcJNKVuV3My6zDlbIzvXByBKxykBAY5nnths2u0evVag0E7Uua/rruJsPpqoXkLXmQh516WDlNug8IiIWcpUIX9v0O16BvXgQa2X6XDkcjU8olK+nSlITaPIKq7U0VkD95S8xsK6pM7Z8yroT/5IHjEE9t+ttRC1gQRHVYodrWD0UY9d+UfMX/tActVEsGSLHBFcNFikGvBAG198B9YQdiY7Rk+QfgdYkCLPCuuz4YBbPvqMfISvev7DI0Z1yBNRh8rRJmXmk9ITWswiJgR1b/bsyRccQbGoLg7AwhK/s20j07urSaL3AlNyevzlzuYa4FCZCi9uH8rBDONhwxiFQSe4AwTgsNda/cCj3i7vOdsEJKXHDwjU1pUuGjO0KvlJ+jE/MxofrGea5WhPvJiYCUYsmLq5WmnHfIgHp6nh7oUIJMfvPkbs3H8Vyi7ieCfcPm4arzxEmGQIzboGNxLIBUxjriltqdC9Lbc/GbieVPQsnC685tiq6WSCDfpFR9Y1vYKsSYBKaCcafqzFa8PtPGmN7lcshNHr8sS5lGIYSdRvvKmCfRkEnjmR8TjVuH+Q2Vw+7COVAOLc5Q5oiHYIyRgHj1u9QdOFBhDHntQ1E5My78neafvxhoQF+SinhOEityEgQd0Jjay1VqvepUS+vZNbHmQeDRfiXjWxq3BXH1oVcCjt7An2udHjLuOmz3shApzstzPJO2+QMK7bnWNYcLvdigTti5zI+DbUfiPZBZxPRFnQdpSZPL0f7tcp6cbiG+do=
+        type : 7
+       type : 14
+       code_elements :
+        type_code : 23
+        p_codes :
+         -
+           code : |1+
+            //Exécute le traitement défini dans le modèle
+           type : 14
+         -
+           type : 35
+           enabled : false
+         -
+           code : |1+
+            //Exécute le traitement défini dans le modèle
+           type : 15
+         -
+           code : |1+
+            //Exécute le traitement défini dans le modèle
+           type : 16
+         -
+           code : |1+
+            //Exécute le traitement défini dans le modèle
+           type : 33
+         -
+           type : 17
+           enabled : false
+     -
+       name : SAI_CodePostal
+       identifier : 0x25f96272269af104
+       internal_properties : CAAAAAgAAABOjBAIKj2ioMG9QEwgbrwMHnk4tNwAkUxuxQTRQYHjRS+i340j2kdqmiCiqMEshNhXVkAscTPUsO2/ZsfzA23+X+fl10xzNyaE2E02uoev3T97uB9/k4MvLaf8c4V5/PslDFyl7uR3FK+yRDeFcT99rhDSnq92ktUVKSo5YYvIoVUszZQKm04lBMlWFmZyjX76XjWxMGtYgg7M5cdxzf3gPzeftDDlGqIMc9jlIoGeqQT2qe3K+KCbmNKsfR3h3l87pZMpezlywRedH2msu7oEBraVoUPMUBoSFSO2sclWBljYcHuWsFtGtq8RIEZ7UpwLLh6olcnmjGpSEn/UR9PTwsX+363oRqkeCsSb5YXODTmuzMRvfpovs1vfISS8v5z8R9zKRX1BcpIxJtWG3er+MRA+qXi112H6uJJPadQkkOR7bOAGBcTYozxy9yD2grG4yszmi0JPc5ZeJfLnPTKup709MGdz37bwCh6ZIE+vqjCHxi6xAQYYZG3PzWhrUlSYQgRivVnalvyQaVO3tVQ7nUVQbD+MPNn29jzlBjdodGgwD6oLe7ND+HX3q9xqKe7VGgF4ih9JW9HIOm8klADG13eeYFhtzaE3g/Cwg1siTWyC3WilhELMHl1KYUgG/zhrywpFVjAsM++hVKkf23rDrGg12pRgTILRlHXwdIDiZapVN1jvX7WSkeKcZPqhsZtkgA3tRryGznxwJq0CzWPRMrggGULDpMe1atWCUU+iiJiY9kUhkrbVV4pZQnlkmkEog9QzlRy6pu7gCTqWkyxLjYHD8wIs2sYSqAeTwOPxLBYrv234prmiKrEWTxNBWGC+iTp1yjk4/vCj6iOqAzG/Gx/6OFxhq0KGjvXoIeQjD+H5gyh56qCO5jiGNQSki9cEFjYzzQbIHvZ+/T+2RN+MJ4UzTGddYJJVSSpIqgYojNFTgHgpdga0CAnMfTHNeQJs9sHRCWTq31ShOLKdZKDmE7QC5BRUcVHVJzZqgT9R7cDFWwJAfn1+Mns26gRVSbYvlk2ARq+kNiUs6yG7fQLGCR2s/qf8fuzG
+       properties :
+        y : 200
+        width : 191
+        height : 44
+       type : 2
+       code_elements :
+        type_code : 3
+        p_codes :
+         -
+           code : |1+
+            //Exécute le traitement défini dans le modèle
+           type : 14
+         -
+           code : |1+
+            //Exécute le traitement défini dans le modèle
+           type : 15
+         -
+           code : |1+
+            //Exécute le traitement défini dans le modèle
+           type : 16
+         -
+           type : 276
+           enabled : false
+         -
+           type : 277
+           enabled : false
+         -
+           type : 278
+           enabled : false
+         -
+           code : |1+
+            //Exécute le traitement défini dans le modèle
+           type : 17
+     -
+       name : SAI_Etat
+       identifier : 0x25f96272269bf104
+       internal_properties : CAAAAAgAAACmY+XDH2ic0TdaFaA6cQ+mfOA0hdiw+ABewZjv3qj9GgZYfpoBvxTTAGm/1/cfY++fbVIzMRHVK0JVPnwX9L/Up7mOH5WEiKR4VNC3QpvlEHecSX5pH7B/vie0gyazqEGhpB6ISPWO6RxCP6HRtbq4GyYtEWRhb++zqQx/ebBruq+DYLi2kBUt1EHWQWIik0WCyrE41Sndi1AqQ3L4aXjzWvHX1u7KkY5BItSVODhiBDPfddYYaZygd2GaejPuQ6VArLt2X7C8EC+pz1lLYEFqcpqCVKiRMci6bfa/xZYFa7WnRgilGRf4VlmX1zLVqqyLzE8p+FctLGVmS8U99hbsrSkrV8x37bJKOjElsHH7phPOOCfbhbFu5iORrHBcj0HgOJF8R5/AbvCo+IPaY6ecZ1+DS+FZFxib2zFVZrvVZHRmHxVuewZCv7AxWcs9kdjsksfidLbUnW7kOUoOIaCzXOHoWrMSYvfUbdDeIiHjWcahG94xPaKkDKIHNsc7d4gvZeKXi5pwCg99jC6XTdhsNmGIQg7r6FaBFAMRFTEEWxd/8fv+5HhPQmce042+pICAQO69H8HCWHDtXyip1DtIW2Nom0Zrz1eSJ9r99B2MIHAYi+a/dlK0JSy+oaRPZS7GDo1dMLPdJQ3QTSuE7HNzlDBtZPu+g3GUeRzTjlMrmcVJoVbEkT1zAxrQH4doNH6CDC1O75IKZoO9hxmpfbpgHR7cxeFltrBWGNz14dRk5Dw7x+Y/oFAia6jeey0rXkFrGdPshpFikha3RcKs/XwZF9TdNWnUYuKvP9grF2ecZVYKcqOYhMbU7ZUxSZhelsbfdVyTR76j14Jorck2kzhvCW/m2kaAEzDECjMwiWtLJqn4ZRWAjMqA7nAb9VhRNSjX24d4J1MIgnAVPhtwX5pwQHRIJMDr1xidniH+O9qHOxkhM3ebD9eIUJF3aiw8dJ4gdM7v9mUOgwYVN9mmAyjMset+LO15HqYb977w5S3hGgw9+7nPvYrPVXWva+VmwfFRaDjCFwaSM6zP3tK1LHtptVVKPJFa+clXaKt9PJ9Mr5Z5p4RbXgQZLqml
+       properties :
+        y : 150
+        width : 361
+        height : 44
+       type : 2
+       code_elements :
+        type_code : 3
+        p_codes :
+         -
+           code : |1+
+            //Exécute le traitement défini dans le modèle
+           type : 14
+         -
+           code : |1+
+            //Exécute le traitement défini dans le modèle
+           type : 15
+         -
+           code : |1+
+            //Exécute le traitement défini dans le modèle
+           type : 16
+         -
+           type : 276
+           enabled : false
+         -
+           type : 277
+           enabled : false
+         -
+           type : 278
+           enabled : false
+         -
+           code : |1+
+            //Exécute le traitement défini dans le modèle
+           type : 17
+     -
+       name : SAI_Ville
+       identifier : 0x25f96272269cf104
+       internal_properties : CAAAAAgAAABWhYrsy85hTHGdpyHgAcXipccE6y9FEycRinshSUS/MP9rNCNv+Db922LaG/UNAq58SMmXtGQUUCXubHBo0Bd29wGGtrPGDJA5r3MJOF+VgZRWmWjnUfq9L5g/3K2SBzF2uWXM/KmpSz5bdA8lYWtMCL/A8eFoXsb2iwUEKFWB1pNxmICbrnruXlxtRJf0ts9VXQQm+y+Ui8gg9lA4Z7oiF1nwr2e3tJ5lvkGqjd+wDSmiMIF7JZK/Jwvc7Ir86pqIBow6EX/vM451gAHwwWdj2B2OjZZaKxathmZCQpUdQkLBAwTLCvNQbHba2RGQCPBIUiWBTupYvAsh+g58IG13OGDWiUkXmN/gL0Vu4QRaODsG8sHNASDwQyCcjfAWZcRdMq5I0DDsurb2DDjw/9cxrL6xX4DOnC/GM1Aejy7K6lty1QCPwAuGQvbWqJGSR/KDH6F2XJjPEYhcnj/JInYrWoBpLfzqThZzcd8sjzea1/uYkx6+NlHJy+U1vCZwgVlaJb8IiDg5Dv539q3ja+GEuO9XAkrIwvw9yEtF+lX9++dsum5ymw0+z9Mm5eIWwEuk3MYCScHl7nxIfZNkuhkh6vs7ggdn+YzAV4GUC4mfiCNu7Cys9AAJI7lZx+riPr2MWS0TVy4wOKxDMz13eQkofcJoamcG4Hu0oFRAcD5ZBC2HXOASCws9CmbDiJKTgqBFBAgvPfTUj8fQxbEq39oq707lofWZUMa8apa2aZXdBW1+08vMGEK0Xvr6OkWy6cx9xWHlSohkr+1qsu6OgTFydEGm/7sS7vcFNNRr/JFc/2GtwJ11eLm937/zyfmZDXFJpUnHxwUGiUFfR2V4z84+uoFVqjsxlZsVVPg49XaSxjQl+IePFHS2StEylbcpqYVXdrg65wjksh+3Yx/UULEC//Ks2Kb2QCWZoEpGmUTUbabV1ghm1kzp7ZyqhEaVTP9PGjNZAsu6bzJ3H0LNqGYUgYO0wxVerf1oKaPR0gb+vN9z0dV5iWyMyDwSeD2WLtVGs401ZQNZ3A==
+       properties :
+        y : 100
+        width : 361
+        height : 44
+       type : 2
+       code_elements :
+        type_code : 3
+        p_codes :
+         -
+           code : |1+
+            //Exécute le traitement défini dans le modèle
+           type : 14
+         -
+           code : |1+
+            //Exécute le traitement défini dans le modèle
+           type : 15
+         -
+           code : |1+
+            //Exécute le traitement défini dans le modèle
+           type : 16
+         -
+           type : 276
+           enabled : false
+         -
+           type : 277
+           enabled : false
+         -
+           type : 278
+           enabled : false
+         -
+           code : |1+
+            //Exécute le traitement défini dans le modèle
+           type : 17
+     -
+       name : SAI_Adresse2
+       identifier : 0x25f96272269df104
+       internal_properties : CAAAAAgAAAASm4gCxMkMD5OgGewlqhcuN3BISW8h8rGVWdOn1IXqnBDkBVvDJprg3oqk9VKtWcOfJtf9sZCwMMbB6qFFZhhEyDYgG97S57NOBbxe00S2qXm0VHIHtlhqtvk8A6S8Ic3s/dNF4xvwY7zqY0bsGF4lCctDgUy21uXj/NljmUOPEduyKKiro3eM91Lmn71JjH+vaegTHSkkhO9h/PQt5qm7ZDL2ar3OYpr2cQANc3hBJKQ+bUNpIsIU60TEnFb5hLLZULZXGUNUcKxoK7bOaDihR6iBqzMsNQUOi0rrAyYXOlspqryTx4yHuHC1eIzmd3EEhs1fO+m1BEh/NQ3TdJTkQB6tWjeB8n0aIlhBlDJCEYqirEYUZERONEYq58ncKW7hnfCrjElem1Fe7Mf4Trvv5y6kImbdwCIpFHgTEe2UrMnEahaCL/3vWvz1kW34BrSR+plAxqEnPxURNlXL5j0OfDH/UGMFjDan3I9Yqq4uOoP0Jn2tTjSRLVpnhRXn4ifYUMfwc20n51RVusB51ljoeBMNuHm8ZRJj8ijOoKAsd69ghv4B1SYWpRV3Loi1G0sgRKy4oHvemB42aHayXTZJkH2jThBByr4OEf5NVzIY8KfuUjJBPClTrV98Ls7Xt6cIOR/VPNA9aMCDVrgf5EK6Zd4KnExEOxVGVvcLFttYrkW7DCylh+CRtExGe9hwL6TT5tx3QoQtWclmLOTIYBsA43YFtfyTLzLQ2gVRd3DGo5nGBe23ck2cRDTTP8/xZOZdyXtvG8xnw/U2b8sOKPbgimtWKziowQl3GmkUGlwD6Wtb8LHyiLbrYRWqmMuEoB+hcfFjko9pG+FbQogOIglGqDu/nIbZJq09OG9H92NF/lbbRgT3ACXyNtn146Y3N3Kwmn7Ayk4HyTOxUB59WX7azRIyI+laP4EdHioSVq3r69aJrPSDpfzRAXHS0meQqiUsrhiVb6U4ZQwkGJeeueGvxpQ6Klpm48zXOLLx1ESUgcQIqYydypR3d1F7QaU4cwPHPiQ6HiOd9y4Z//U4x652ZTAYrO32
+       properties :
+        y : 50
+        width : 361
+        height : 44
+       type : 2
+       code_elements :
+        type_code : 3
+        p_codes :
+         -
+           code : |1+
+            //Exécute le traitement défini dans le modèle
+           type : 14
+         -
+           code : |1+
+            //Exécute le traitement défini dans le modèle
+           type : 15
+         -
+           code : |1+
+            //Exécute le traitement défini dans le modèle
+           type : 16
+         -
+           type : 276
+           enabled : false
+         -
+           type : 277
+           enabled : false
+         -
+           type : 278
+           enabled : false
+         -
+           code : |1+
+            //Exécute le traitement défini dans le modèle
+           type : 17
+     -
+       name : SAI_Adresse
+       identifier : 0x25f96272269ef104
+       internal_properties : CAAAAAgAAACfbq2XhVkQkCwo/m22dsE0/Ld9FqLpG3Au9vMYGBI5Y1JNBEhOhkvntfDtTHZxYJjBYyeD7F7dYube+p/2NwSpEeJpndTOR2nS3YDcge/68I0fF8KfCeJCPDRDxOU2zRgMUn9Sz7QI3pGCsZCRgSIfMGjPYCIFt0qETHOWettCrF10utxW7Utan+kgem6zG+iSLi4PeL7jkYbeCDjqWXGrV7zAFm7B3oGGmcd+g1wP7BUwv3nks6m8p28QwqnOoEVsjFx7vmX0ig15wIX7dr6YsGVN4H+RO+16kLS3ntDQgb7qRHMMZBmsEzS5X3qejlKUctKho5vnTcyX2XNqpdl+6BHI8yXLuccdB8ZjWTZ1mn45ufDncVDJowE/MUqSwbEGbAh0YvF2sVpdcduC0GLu3TZ9o1XHtFRiUvvfCtd/Uetik8Mn6N6Roa7qsn9miOqcTeWt5ZLI2vkTyXDs5HJ8Da+sRSqHMFZGXwa9PnOyatKpurQis/in0bNyzBObollYUIHsYA76SmnFkq0OyudPSe8dyOCWo0SgSMlTG85hRDBkRhZYaYZyktUQlxGpYt5h7J4OI3uOPNMSe/nHpTPClfX3mnGhWlr33ye6IrB14bhy4DSefqf1KIGnHbF5RHjnoTtRFbwxKK3zAYuKBEnJnnh2YAciIxFd3DR8S809c6L55noavy7TLZj9Oj1SyAku1ALBAaQdZfD6x4NFnnafPrrRQXsvCbBvbPz0buantGKmFVXAyJEc5VBqNoixVZtKpwGhquzpaZL8Koq98Oex2bkQWc+iy88azBbd7/AYdgBfFttd5ETdQkUFmxbaZ/IKXVHTqcdbqV5ZdYtxUDilBS+jyKEXzGcs2hhMNosQZT1T/KYcSn+Y393g0gMDaJerCHimZUgNOwByynQ4HT4oaMXbMvKGqP9i8PNVh+f/PfgWvQtIuczSmQIN1RIvWlmjs56C/7E4nDLQ/ZKqI0GB9E4oi5Y+00HkxxPKSvwifMO2NWXhnBFzbD0z66bDqDTIeCaeW4sMKD3V
+       properties :
+        width : 361
+        height : 44
+       type : 2
+       code_elements :
+        type_code : 3
+        p_codes :
+         -
+           code : |1+
+            //Exécute le traitement défini dans le modèle
+           type : 14
+         -
+           code : |1+
+            //Exécute le traitement défini dans le modèle
+           type : 15
+         -
+           code : |1+
+            //Exécute le traitement défini dans le modèle
+           type : 16
+         -
+           type : 276
+           enabled : false
+         -
+           type : 277
+           enabled : false
+         -
+           type : 278
+           enabled : false
+         -
+           code : |1+
+            //Exécute le traitement défini dans le modèle
+           type : 17
+    type : 42
+    code_elements :
+     type_code : 92
+     p_codes :
+      -
+        code : |1-
+         
+         // Variables globales au modèle de champ
+         gsTypeAdresse		est une chaîne
+      -
+        code : |1-
+         
+         PROCEDURE SetValeur(sType est une chaine)
+         
+         // Mémorise le type d'adresse
+         gsTypeAdresse = sType
+        type : 43
+ menu :
+  name : _Menu
+  identifier : 0x25f9621f263aaed0
+  internal_properties : CAAAAAgAAAD7S+2GOLjEeheq9Y6YZGIRPpLnwB8KUS2je4S4X5oxSGrv51WBBaVxxbk/BTEdUwW0fnnvlhQNIBAuQTAO0S9+S8FMTvDhqkS1JydqFJBfHlbZSFzBkZAjjJ5aIH/cuMnF4Pme57TAyYvjnlkzTJmN5UX9hu+BEl3AsIsso5gsz3oX/KHp1ai/xWZCb54MlUFXdWmT2EOpULKqea/LH9EOlTkaiWsV2aM2/FfXQjTSY3NhAR6zEzKHYKVJwiZULchG0D4LNvRbPifZJPDMmlF6ptz+Rg0QN6SXG5jU7HifIzmkonwDFnOJQw==
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar : {}
+ actionbar : {}
+ code_elements :
+  type_code : 91
+  p_codes : []
+  procedures :
+   -
+     name : AfficheAdresse
+     procedure_id : 1583404985816838404
+     type_code : 14
+     code : |1-
+      // Résumé : Affiche l'adresse
+      // Syntaxe :
+      // Nouvelle_Procédure ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      //
+      
+      Procédure AfficheAdresse()
+      
+      
+      // Variables locales
+      
+      
+      // Recherche l'enregistrement Adresse correspondant à ce client ET ce type d'adresse
+      HLitRecherchePremier(Adresse, CLE_NumClientType, [Client.NumClient,gsTypeAdresse])
+      // Si l'enregistrement existe
+      SI HTrouve(Adresse) ALORS
+      	
+      	// Affiche les informations de cette adresse
+      	SAI_Adresse 	= Adresse.Adresse 
+      	SAI_Adresse2 	= Adresse.Adresse2
+      	SAI_Ville 		= Adresse.Ville
+      	SAI_Etat 		= Adresse.Etat
+      	SAI_CodePostal 	= Adresse.CodePostal
+      	COMBO_Pays 		= ListeCherche(COMBO_Pays,Adresse.Pays, vrai)
+      
+      SINON
+      	// Affiche les informations par défaut
+      	SAI_Adresse 	= ""
+      	SAI_Adresse2 	= ""
+      	SAI_Ville 		= ""
+      	SAI_Etat 		= ""
+      	SAI_CodePostal 	= ""
+      	COMBO_Pays 		= "France"
+      FIn
+     type : 458752
+   -
+     name : EnregistreAdresse
+     procedure_id : 1583404985816903940
+     type_code : 14
+     code : |1-
+      // Résumé : Enregistre l'adresse
+      // Syntaxe :
+      // Nouvelle_Procédure ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      //
+      
+      Procédure EnregistreAdresse()
+      
+      // Variables locales
+      
+      
+      // Recherche l'enregistrement Adresse correspondant à ce client ET ce type d'adresse
+      HLitRecherchePremier(Adresse, CLE_NumClientType, [Client.NumClient,gsTypeAdresse])
+      // Si l'enregistrement n'existe pas
+      SI HTrouve(Adresse) = Faux ALORS
+      	
+      	// Créé l'enregistrement
+      	HRAZ(Adresse)
+      	Adresse.NumClient	= Client.NumClient
+      	Adresse.Type		= gsTypeAdresse
+      	HAjoute(Adresse)
+      	
+      FIN
+      
+      // Modifie les informations de l'adresse
+      Adresse.Adresse 	= SAI_Adresse
+      Adresse.Adresse2 	= SAI_Adresse2
+      Adresse.Ville 		= SAI_Ville
+      Adresse.Etat 		= SAI_Etat
+      Adresse.CodePostal	= SAI_CodePostal
+      Adresse.Pays		= COMBO_Pays..ValeurAffichée
+      HModifie(Adresse)
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : MDLC_SansNom1
+resources :
+ string_res :
+  identifier : 0x105dfa3e00258a29
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
